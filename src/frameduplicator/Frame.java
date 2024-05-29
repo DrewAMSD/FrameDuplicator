@@ -4,7 +4,6 @@ package frameduplicator;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 import com.mrjaffesclass.apcs.messenger.*;
-import java.util.ArrayList;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 /**
